@@ -13,4 +13,4 @@ hs_err_pid*
 
 # intellij idea project files
 .idea/
-java-notes.iml
+*.iml
