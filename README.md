@@ -7,5 +7,7 @@ of the Java programming language. Code straight-to-the-point.
 
 ### Table of Contents
 **[1. Java Basics](#java-basics)**<br/>
+***[1.1. Primitive Types](#primitive-types)***<br/>
 
 ## 1. Java Basics<a name="java-basics"></a>
+### 1.1. Primitive Types<a name="primitive-types"></a>
