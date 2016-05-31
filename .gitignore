@@ -14,3 +14,7 @@ hs_err_pid*
 # intellij idea project files
 .idea/
 *.iml
+
+# gradle
+.gradle/
+build/
