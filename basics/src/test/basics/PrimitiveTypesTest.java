@@ -3,6 +3,8 @@
  */
 package basics;
 
+import org.junit.*;
+
 public class PrimitiveTypesTest {
 
 }
