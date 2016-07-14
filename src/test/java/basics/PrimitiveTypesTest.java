@@ -1,13 +1,15 @@
 package basics;
 
 import org.junit.Test;
-
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import static junit.framework.TestCase.assertFalse;
 
 /**
- * Created by 0930 on 2016-07-14.
+ * Created by Miguel Rentes on 2016-07-14.
  */
 public class PrimitiveTypesTest {
+    private static final Logger log = LoggerFactory.getLogger(PrimitiveTypesTest.class);
 
         @Test
         public void absoluteOfMostNegativeValue() {
